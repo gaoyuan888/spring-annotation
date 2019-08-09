@@ -22,11 +22,11 @@ public class IOCTest_Ext {
 		AnnotationConfigApplicationContext applicationContext  = new AnnotationConfigApplicationContext(ExtConfig.class);
 		
 		
-		//发布事件；
-		applicationContext.publishEvent(new ApplicationEvent(new String("我发布的时间")) {
-		});
-		
-		applicationContext.close();
+//		//发布事件；
+//		applicationContext.publishEvent(new ApplicationEvent(new String("我发布的时间")) {
+//		});
+//
+//		applicationContext.close();
 	}
 
 }
