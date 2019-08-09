@@ -1,4 +1,4 @@
-package com.atguigu.gaoyuan;
+package com.atguigu.gaoyuan.aopsimple;
 
 /**
  * ¹¦ÄÜÃèÊö:

@@ -1,7 +1,7 @@
 package com.gaoyuan.test;
 
-import com.atguigu.gaoyuan.Gaoyuan;
-import com.atguigu.gaoyuan.GaoyuanConfig;
+import com.atguigu.gaoyuan.aopsimple.Gaoyuan;
+import com.atguigu.gaoyuan.aopsimple.GaoyuanConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**

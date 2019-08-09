@@ -1,4 +1,4 @@
-package com.atguigu.gaoyuan;
+package com.atguigu.gaoyuan.aopsimple;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

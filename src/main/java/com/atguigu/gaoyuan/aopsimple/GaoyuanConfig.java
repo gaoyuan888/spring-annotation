@@ -1,4 +1,4 @@
-package com.atguigu.gaoyuan;
+package com.atguigu.gaoyuan.aopsimple;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.atguigu.gaoyuan;
+package com.atguigu.gaoyuan.aopsimple;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;
