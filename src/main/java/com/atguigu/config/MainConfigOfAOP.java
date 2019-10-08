@@ -45,8 +45,8 @@ import com.atguigu.aop.MathCalculator;
  * 		@Import(AspectJAutoProxyRegistrar.class)：给容器中导入AspectJAutoProxyRegistrar
  * 			利用AspectJAutoProxyRegistrar自定义给容器中注册bean；BeanDefinetion
  * 			internalAutoProxyCreator=AnnotationAwareAspectJAutoProxyCreator
- * 
- * 		给容器中注册一个AnnotationAwareAspectJAutoProxyCreator；
+ *
+ * 		给容器中注册一个AnnotationAwareAspectJAutoProxyCreator；（注解版的切面自动代理创建器）
  * 
  * 2、 AnnotationAwareAspectJAutoProxyCreator：
  * 		AnnotationAwareAspectJAutoProxyCreator
