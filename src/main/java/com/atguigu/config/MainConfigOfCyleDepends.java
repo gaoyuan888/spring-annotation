@@ -18,7 +18,7 @@ import org.springframework.context.annotation.Configuration;
  * @desc
  */
 @Configuration
-public class MainConfigOfCyleDepands {
+public class MainConfigOfCyleDepends {
 
     @Bean
     public CircleDepandB circleDepandB(){
